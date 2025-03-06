@@ -5,6 +5,8 @@
 ---
 
 ## **📌 About the Project**  
+
+Postpartum mental health is a critical concern that affects new mothers worldwide. Many struggle with anxiety, depression, and emotional instability but fail to seek timely help due to stigma or lack of awareness. This project leverages machine learning & NLP to analyze journal sentiments and postpartum health data to detect early signs of distress, enabling timely interventions.
 **Whispers of Motherhood** is an **AI-powered postpartum health analysis** project that leverages **machine learning and data visualization** to understand the emotional and mental well-being of new mothers. The project aims to:  
 
 ✅ **Analyze postpartum mental health** using **sentiment analysis** & clustering  

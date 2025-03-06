@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Whispers of Motherhood 🤱💙</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Whispers of Motherhood 🤱💙</h1>
+      <p class="subtitle">AI-Powered Healing & Support for New Mothers</p>
+
+      <!-- Sentiment Analysis Section -->
+      <section class="sentiment-section">
+        <h2>📝 Journal Your Thoughts</h2>
+        <textarea
+          id="journalEntry"
+          placeholder="Write about your day..."
+          oninput="analyzeSentiment()"
+        ></textarea>
+        <p class="result">
+          Detected Emotion: <span id="sentimentResult">🤍 Neutral</span>
+        </p>
+        <p class="suggestion" id="sentimentAdvice">
+          ✨ Your personalized advice will appear here.
+        </p>
+      </section>
+
+      <!-- Postpartum Health Risk Assessment -->
+      <section class="health-section">
+        <h2>🏥 Postpartum Health Check</h2>
+        <p>Answer a few questions to assess your well-being.</p>
+
+        <form id="healthForm">
+          <label for="sleep"
+            >How many hours of sleep did you get last night?</label
+          >
+          <input type="number" id="sleep" min="0" max="12" required />
+
+          <label for="energy">Rate your energy levels (1-10):</label>
+          <input type="number" id="energy" min="1" max="10" required />
+
+          <label for="mood">How is your mood today? (1-10)</label>
+          <input type="number" id="mood" min="1" max="10" required />
+
+          <button type="button" onclick="predictHealth()">
+            Check Health Risk
+          </button>
+        </form>
+
+        <p class="result">
+          Health Risk: <span id="healthResult">🩺 Awaiting input...</span>
+        </p>
+      </section>
+
+      <!-- Mood & Health Trends -->
+      <section class="insights-section">
+        <h2>📊 Mood & Health Trends</h2>
+        <canvas id="moodChart"></canvas>
+      </section>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

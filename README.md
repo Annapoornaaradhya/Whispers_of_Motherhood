@@ -113,6 +113,12 @@ jupyter notebook
 
 ---
 
+## **📸 Screenshots**
+
+![screencapture-127-0-0-1-5500-2025-03-06-18_41_59](https://github.com/user-attachments/assets/75fe9197-855f-4172-a8f9-9d0745b9ae34)
+
+---
+
 ## **📝 Future Scope**  
 🚀 **Expand dataset** with real-world postpartum case studies  
 🚀 **Develop a mobile app** for AI-driven emotional support  

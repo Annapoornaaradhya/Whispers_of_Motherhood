@@ -1,6 +1,6 @@
 # **Whispers of Motherhood: AI for Postpartum Healing 🤱💙**  
 
-> **Empowering Mothers, Understanding Emotions – AI-driven Insights for Postpartum Mental Health.**  
+## **Empowering Mothers, Understanding Emotions – AI-driven Insights for Postpartum Mental Health.**  
 
 ---
 
@@ -31,6 +31,8 @@ This project applies **NLP, ML classification, PCA, and clustering** for compreh
 🔹 **Scikit-Learn** – Machine learning models  
 🔹 **BERT Transformer** – Sentiment analysis  
 🔹 **K-Means Clustering & PCA** – Unsupervised learning  
+🔹 **Flask** – Backend API for real-time analysis  
+🔹 **JavaScript, HTML, CSS** – Interactive frontend for health assessment  
  
 
 ---
@@ -76,6 +78,16 @@ The project uses **ML classification** and **unsupervised clustering** to detect
    - **Enhances model performance**  
 
 ---
+## 🌍 **New Features (Frontend & Flask API)**  
+🔹 **Interactive Frontend**  
+- 📝 **Real-time Sentiment Analysis:** Users can journal their thoughts, and AI detects emotions  
+- 🏥 **Postpartum Health Check:** Simple form-based health assessment for mothers  
+- 📊 **Mood & Health Trends Visualization:** Charts displaying emotional well-being  
+
+🔹 **Flask Backend API**  
+- 🧠 **AI-Powered Sentiment Analysis API** (BERT-based)  
+- 🏥 **Health Risk Prediction API** (ML model for postpartum mental health)  
+- 🚀 **Fast & Secure Communication** between frontend & backend  
 
 ## **📌 How to Run the Project**  
 

@@ -130,7 +130,7 @@ jupyter notebook
 ---
 
 ## **🤝 Contributors**  
-💙 **Annapoorna Aradhya** – *AI/ML Developer*  
+💙 **Annapoorna Aradhya**  
 
 📩 **Connect on LinkedIn:** [@Annapoorna-Aradhya](https://www.linkedin.com/in/annapoorna-aradhya/)  
 

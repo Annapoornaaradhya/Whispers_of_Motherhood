@@ -3,7 +3,9 @@
 ### **Empowering Mothers, Understanding Emotions – AI-driven Insights for Postpartum Mental Health.**  
 
 ---
+[![DOI](https://zenodo.org/badge/943430316.svg)](https://doi.org/10.5281/zenodo.15275321)
 
+---
 ## **📌 About the Project**  
 
 Postpartum mental health is a critical concern that affects new mothers worldwide. Many struggle with anxiety, depression, and emotional instability but fail to seek timely help due to stigma or lack of awareness. This project leverages machine learning & NLP to analyze journal sentiments and postpartum health data to detect early signs of distress, enabling timely interventions.<br/>
